@@ -66,5 +66,10 @@ After analysing the simulated output,
 (iv)Write your inference.
 
 ## Simulation
+<img width="1549" height="595" alt="image" src="https://github.com/user-attachments/assets/7be3c2a9-9663-4a58-990f-7e40c0198ff9" />
+
 ## Output
+<img width="1599" height="754" alt="image" src="https://github.com/user-attachments/assets/b56dade6-fd7c-47a7-ba79-b11cac9e9ed7" />
+
 ## Result
+Thus the Design-and-Simulation-of-Full-wave-rectifier-controlled-by-a-thyristor is verified
